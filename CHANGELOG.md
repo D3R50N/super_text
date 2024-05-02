@@ -8,7 +8,7 @@ All notable changes to SuperText will be documented in this file.
 - Improve documentation for easier usage.
 - Fix minor bugs.
 
-## [0.0.2] - 2024-05-01
+## [0.0.3] - 2024-05-01
 
 - Initial release of SuperText.
 - Support for basic animated effects including scale, blink, slide up, slide down, slide left, and slide right.
