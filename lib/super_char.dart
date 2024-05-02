@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'types.dart';
-import 'super_text.dart'; // Assure que le package SuperText est importé
+import 'super_text_x.dart'; // Assure que le package SuperText est importé
 
 /// Widget that represents a single character with animated effects.
 class SuperChar extends StatelessWidget {

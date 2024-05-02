@@ -184,7 +184,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.2.0"
-  super_text:
+  super_text_x:
     dependency: "direct main"
     description:
       path: ".."

@@ -30,7 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  super_text:
+  super_text_x:
     path: ../
 
 

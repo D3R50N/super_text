@@ -18,7 +18,7 @@ To use SuperText in your Flutter project, add the following dependency to your `
 
 ```yaml
 dependencies:
-  super_text: <latest>
+  super_text_x: <latest>
 ```
 
 Then, run `flutter pub get` to install the package.
@@ -34,7 +34,7 @@ Then, run `flutter pub get` to install the package.
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:super_text/super_text.dart';
+import 'package:super_text_x/super_text_x.dart';
 
 void main() {
   runApp(MyApp());
@@ -81,7 +81,7 @@ Check out the [example](example) directory for a complete Flutter application de
 
 ## Support
 
-- For any issues or feature requests, please [open an issue](https://github.com/D3R50N/super_text/issues) on GitHub.
+- For any issues or feature requests, please [open an issue](https://github.com/D3R50N/super_text_x/issues) on GitHub.
 
 ## Contributing
 

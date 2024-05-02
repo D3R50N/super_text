@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:super_text/super_text.dart';
+import 'package:super_text_x/super_text_x.dart';
 
 void main() {
   runApp(const MyApp());

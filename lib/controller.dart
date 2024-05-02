@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'super_text.dart';
+import 'super_text_x.dart';
 
 /// Controller class for managing multiple instances of [SuperText].
 class SuperTextController {

@@ -1,4 +1,4 @@
-import 'super_text.dart';
+import 'super_text_x.dart';
 
 /// Widget that displays a number with customizable animated effects.
 class SuperTextNumber extends SuperText {

@@ -7,7 +7,6 @@ import 'super_char.dart';
 export 'controller.dart';
 export 'types.dart';
 export 'super_char.dart';
-export 'super_text_number.dart';
 
 /// Widget that displays text with customizable animated effects on each character.
 class SuperText extends StatefulWidget {

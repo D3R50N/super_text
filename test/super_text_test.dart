@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:super_text/super_text.dart';
+import 'package:super_text_x/super_text_x.dart';
 
 void main() {
   test('test 1', () {
