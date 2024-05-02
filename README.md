@@ -26,8 +26,8 @@ Then, run `flutter pub get` to install the package.
 ## Warning ⚠️
 
 - `SuperText` widget has a built-in controller to manage the text changes and animations. Don't use setState to update text or else no animation will occurs.
-- Make sure to create a new instance of `SuperTextController` for each SuperText widget as sharing the same controller means sharing the same text even with different animation.
-- SuperText widget is actually a Wrap widget with a Text widget inside, so you can use it as a Text widget with additional features.
+- Make sure to create a new instance of `SuperTextController` for each SuperText widget because sharing the same controller means share the same text even with different animations.
+- SuperText widget is actually a Wrap widget, so you can use it as a Text widget with additional features.
 - Use `SuperTextNumber` widget additionnally to `prefixText` and `suffixText` properties when dealing with numbers for more flexibility.
 
 ## Usage
