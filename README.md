@@ -81,7 +81,7 @@ Check out the [example](example) directory for a complete Flutter application de
 
 ## Support
 
-- For any issues or feature requests, please [open an issue](https://github.com/D3R50N/super_text_x/issues) on GitHub.
+- For any issues or feature requests, please [open an issue](https://github.com/D3R50N/super_text/issues) on GitHub.
 
 ## Contributing
 
