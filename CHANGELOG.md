@@ -10,8 +10,6 @@ All notable changes to SuperText will be documented in this file.
 
 ## [0.0.2] - 2024-05-01
 
-### Added
-
 - Initial release of SuperText.
 - Support for basic animated effects including scale, blink, slide up, slide down, slide left, and slide right.
 - Customizable text styling options such as font style, text alignment, letter spacing, etc.
