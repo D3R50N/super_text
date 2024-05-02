@@ -1,7 +1,8 @@
 name: super_text
-description: "A new Flutter package project."
-version: 0.0.1
+description: A Flutter package that provides customizable animated effects for text, allowing you to easily enhance the user experience in your Flutter applications.
 homepage: https://github.com/D3R50N/super_text.git
+repository: https://github.com/D3R50N/super_text.git
+version: 0.0.1
 
 environment:
   sdk: '>=3.3.3 <4.0.0'
